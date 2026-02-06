@@ -1,0 +1,24 @@
+# Portfolio de Nazareno Tondini - Versión v20 (Corrección Final)
+
+Esta versión soluciona TODOS los puntos críticos reportados, garantizando un funcionamiento profesional y sin errores.
+
+## Correcciones Implementadas
+1. **Menú de Navegación:** Fondo negro sólido PERMANENTE y texto blanco de alto contraste. Legibilidad garantizada al 100%.
+2. **Sobre Mí:** Fondo negro sólido (sin imagen) y texto blanco brillante para máxima legibilidad.
+3. **Spotify:** Se han embebido los álbumes correctos ("Episodio Piloto" y "DesNudos") usando los IDs proporcionados.
+4. **Game Audio:** Se ha actualizado el video a "Demo de Audio con implementación técnica" y los juegos a "Global Game Jam 2026".
+5. **Diseño Sonoro:** Se ha añadido el título de la sección y mejorado la maquetación.
+6. **Certificaciones:** Se han añadido botones de descarga PDF para cada certificado.
+7. **Servicios:** Se ha rediseñado la sección con tarjetas más grandes, fondo oscuro, bordes de color y título prominente.
+8. **Contacto:** Se muestra visiblemente el email `nazareno@mendoza.edu.ar` y el enlace a Instagram `@nazatondini`.
+
+## Instrucciones de Instalación (GitHub Pages)
+
+1. **Descarga** el archivo `naza_portfolio_v20.zip`.
+2. **Descomprime** el archivo en tu computadora.
+3. **Sube el CONTENIDO** de la carpeta descomprimida a tu repositorio de GitHub.
+   - Asegúrate de que el archivo `index.html` esté en la raíz.
+4. **Espera unos minutos** a que GitHub Pages actualice.
+5. **Visita tu sitio.**
+
+Esta versión cumple estrictamente con todos tus requisitos.
